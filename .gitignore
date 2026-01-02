@@ -1,0 +1,10 @@
+/*
+
+!.zshrc
+!.zprofile
+!.gitignore
+
+!.config/
+.config/*
+!.config/ghostty/
+!.config/nvim/
